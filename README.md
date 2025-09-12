@@ -11,7 +11,7 @@
 ###
 
 <p align="left"> Backend Developer in training with hands-on experience in Javascript development and a strong foundation in web technologies. Passionate about problem-solving, and continuous learning. 
-<br>
+<br><br>
 In addition to technical skills, I create educational content on YouTube, developing communication, video editing, and presentation skills. Open to global opportunities where I can contribute and grow.</p>
 
 ###
