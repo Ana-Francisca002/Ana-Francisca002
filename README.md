@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ana Francisca and I'm a Backend Developer</p>
+<p align="left">My name is Ana Francisca and I'm a Fullstack Developer</p>
 
 ###
 
