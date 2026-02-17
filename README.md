@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ana Francisca and I'm a Fullstack Developer</p>
+<p align="left"></p>
 
 ###
 
@@ -10,21 +10,16 @@
 
 ###
 
-<p align="left"> Backend Developer in training with hands-on experience in Javascript development and a strong foundation in web technologies. Passionate about problem-solving, and continuous learning. 
-<br><br>
-In addition to technical skills, I create educational content on YouTube, developing communication, video editing, and presentation skills. Open to global opportunities where I can contribute and grow.</p>
+<p align="left">
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
