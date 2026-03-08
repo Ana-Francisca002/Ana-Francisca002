@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ana Francisca and i am a Support Analyst.</p>
+<p align="left">My name is Ana Francisca and i am a IT Support.</p>
 
 ###
 
